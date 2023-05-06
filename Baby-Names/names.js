@@ -1,6 +1,5 @@
 /*
-Nadia Kazi, CSE 190M
-May 24, 2012, Section MJ
+Nadia Kazi, 
 The purpose of this file is to produce a page that produces the some of the most
 popular boy and girl name for cildren born in US for each gender. The page displays 
 the most popular baby names, popularity ranking, meaning and a list celebraty names 
