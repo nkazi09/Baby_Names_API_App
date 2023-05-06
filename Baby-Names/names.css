@@ -1,0 +1,31 @@
+/*
+Nadia Kazi, CSE 190M
+May 24, 2012, Section MJ
+The purpose of this file is to style the Baby Names webpage.   
+*/
+
+
+body, button, select {
+	font-size: 12pt;
+	font-family: Georgia, serif;	
+}
+
+q {
+	font-style: italic;
+}
+
+td div {
+	background-color: #FFBBBB;
+	width: 50px;
+	font-weight: bold;
+	text-align: center;	
+}
+
+td {
+	height: 250px;
+	vertical-align: bottom;
+}
+
+.rankPopular {
+	color: red;
+}
